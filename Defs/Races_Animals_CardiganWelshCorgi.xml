@@ -3,11 +3,11 @@
   <ThingDef ParentName="AnimalThingBase">
     <defName>CardiganWelshCorgi</defName>
     <label>cardigan welsh corgi</label>
-    <description>A small, extremely loyal dog. Known for their versatility and companionship, this dog was originally bred for it's herding instincts.</description>
+    <description>A small, extremely loyal dog, one of the two breeds of Welsh corgi. Known for their versatility and companionship, this dog was originally bred for it's herding instincts.</description>
     <statBases>
-      <MoveSpeed>3.1</MoveSpeed>
+      <MoveSpeed>3.8</MoveSpeed>
       <ComfyTemperatureMin>-8</ComfyTemperatureMin>
-      <MarketValue>200</MarketValue>
+      <MarketValue>2000</MarketValue>
       <LeatherAmount>20</LeatherAmount>
     </statBases>
     <verbs>
