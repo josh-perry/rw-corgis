@@ -57,13 +57,13 @@
         </points>
       </litterSizeCurve>
       <lifeExpectancy>15</lifeExpectancy>
+      <lifeStageAges>
         <li>
           <def>AnimalBaby</def>
           <minAge>0</minAge>
         </li>
         <li>
           <def>AnimalJuvenile</def>
-          <lifeStageAges>
           <minAge>0.1</minAge>
         </li>
         <li>
