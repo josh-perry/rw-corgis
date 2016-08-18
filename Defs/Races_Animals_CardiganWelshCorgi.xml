@@ -92,7 +92,7 @@
       <li>
         <label>cardigan welsh corgi puppy</label>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/YorkshireTerrier/YorkshireTerrier</texPath>
+          <texPath>Things/Pawn/Animal/CardiganWelshCorgi/CardiganWelshCorgi</texPath>
           <drawSize>0.48</drawSize>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
@@ -102,11 +102,11 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/YorkshireTerrier/YorkshireTerrier</texPath>
+          <texPath>Things/Pawn/Animal/CardiganWelshCorgi/CardiganWelshCorgi</texPath>
           <drawSize>0.75</drawSize>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Things/Pawn/Animal/YorkshireTerrier/YorkshireTerrier</texPath>
+          <texPath>Things/Pawn/Animal/CardiganWelshCorgi/CardiganWelshCorgi</texPath>
           <drawSize>0.73</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
@@ -116,7 +116,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/YorkshireTerrier/YorkshireTerrier</texPath>
+          <texPath>Things/Pawn/Animal/CardiganWelshCorgi/CardiganWelshCorgi</texPath>
           <drawSize>0.9</drawSize>
           <shadowData>
             <volume>(0.20, 0.3, 0.20)</volume>
@@ -124,7 +124,7 @@
           </shadowData>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Things/Pawn/Animal/YorkshireTerrier/YorkshireTerrier</texPath>
+          <texPath>Things/Pawn/Animal/CardiganWelshCorgi/CardiganWelshCorgi</texPath>
           <drawSize>0.89</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
